@@ -52,7 +52,7 @@ Analyzed real data from Olist — Brazil's largest e-commerce platform. Joined 8
 - 97% orders successfully delivered
 - Avg Customer Rating: 4.09/5
 
-📥 [Download Power BI File](YOUR_GOOGLE_DRIVE_LINK_HERE)
+📥 [Download Power BI File]https://drive.google.com/file/d/1DpZu3OGdffUZFgXGREUoR8_id8JeXKOr/view?usp=drive_link
 
 ---
 
